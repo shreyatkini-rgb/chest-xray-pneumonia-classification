@@ -1,0 +1,9 @@
+{
+  "accuracy": 0.8205128205128205,
+  "roc_auc": 0.9667104974797283,
+  "normal_precision": 0.9765625,
+  "normal_recall": 0.5341880341880342,
+  "pneumonia_precision": 0.780241935483871,
+  "pneumonia_recall": 0.9923076923076923,
+  "pneumonia_f1": 0.873589164785553
+}
